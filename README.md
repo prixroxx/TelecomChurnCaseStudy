@@ -1,2 +1,3 @@
-# TelecomChurnCaseStudy
-Telecom Churn Case Study
+# Telecom Churn Case Study
+
+by Prashant Kumar, Prashant P and Prince P
